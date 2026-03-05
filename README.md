@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MidnightScripts0/MidnightScripts0/output/github-contribution-grid-snake-dark.svg" />
-</p>
+
 
 
 <p align="center">
