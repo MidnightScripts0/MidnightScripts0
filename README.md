@@ -67,4 +67,6 @@ You can find my **FiveM scripts and other projects** here.
 ## 📫 Contact
 
 GitHub: https://github.com/MidnightScripts0
-[Banner](https://imgur.com/a/exANv93)
+<p align="center">
+  <img src="github-header-banner (1).png" width="100%">
+</p>
