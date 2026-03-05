@@ -16,9 +16,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MidnightScripts0&layout=compact&theme=dark&langs_count=6" />
-</p>
+
 
 </p>
 # 👋 Hi there / Hallo
@@ -104,6 +102,3 @@ GitHub: https://github.com/MidnightScripts0
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MidnightScripts0&layout=compact&theme=dark&langs_count=6" />
-</p>
