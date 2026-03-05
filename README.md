@@ -69,5 +69,5 @@ You can find my **FiveM scripts and other projects** here.
 GitHub: https://github.com/MidnightScripts0
 
 <p align="center">
-  <img src="github-header-banner.png" width="100%">
+  <img src="banner.png" width="100%">
 </p>
